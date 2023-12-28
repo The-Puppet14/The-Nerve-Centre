@@ -10,3 +10,5 @@ HAM Radio: A heap of stuff about HAM Radio, including loads of tutorials, chatti
 Horology: A heap of stuff about Horology and Watchmaking, including explanations on how watches work, diagrams and more!
 
 DISCLAIMER! Most of the skills / Topics that this repo focus on (e.g. Cybersecurity) are of a legally sensitive nature, and therefore should be treated with respect and responsibility. Remember the spider man quote! I am not gonna take liability for your messups, so don't be a Pillock / Skid! This stuff is sensitive, and I dont want people ruining it for others while ending up in legal trouble. Thank you very much!
+
+MESSAGE FOR MY CONTRIBUTORS: DON'T MERGE THE BRANCHES! IT DELETES THEIR READMEs AND REPLACES IT WITH THE MAIN ONE! LEAVE IT BE MY FRIENDS! THANKS FOR YOUR HELP!
