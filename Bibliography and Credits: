@@ -1,4 +1,5 @@
 Flipper Zero:
+Firmwares:
 
     Xtreme Firmware:
 
@@ -19,5 +20,11 @@ Flipper Zero:
     BadUSB Scripts: UserGuidoZ, 
 
     Commercial GPIO Boards: Official Flipper Company, Rabbit Labs, Callmekoko
+
+NRF24: 
+   
+    Logitech USB Receiver Firmware Downgrade: dagnazty
+
+    Tutorials For Use, building and applying ect: Talkingsasquach,
 
 [WIP]
